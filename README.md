@@ -17,28 +17,6 @@ This app was created to streamline asset management by aggregating assets from m
 
 ## Usage
 
-1. **Clone the Repository**:
-   ```bash
-   git clone <repo-url>
-# Asset Checker GUI
-
-## Overview
-
-The **Asset Checker GUI** is a Python-based application designed to help users quickly find and list all assets associated with a specific username. The assets are consolidated from multiple systems (such as Intune, Jamf, etc.) and displayed in a user-friendly GUI. It simplifies the task of tracking assets by providing a quick, searchable interface that connects to an Excel file as its data source.
-
-## Features
-
-- **User Search**: Easily search for assets by typing in a username.
-- **Asset Display**: Shows a table of all assets linked to the searched user.
-- **GUI Interface**: Intuitive and simple-to-use graphical interface.
-- **Single Excel Data Source**: Pulls asset information from one Excel file.
-
-## Purpose
-
-This app was created to streamline asset management by aggregating assets from multiple systems into a single, easy-to-use interface. The tool allows teams to quickly locate and review all assets associated with a given username without needing to manually cross-reference multiple platforms.
-
-## Usage
-
 1. **Clone the Repository**
 2. Run the Python Script
 3. Navigate to the project folder and execute the script
